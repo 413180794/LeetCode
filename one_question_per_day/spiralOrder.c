@@ -1,10 +1,6 @@
-//
-// Created by zhangfan on 2020/6/5.
-// 写的很垃圾
-//
 
 #include <stdio.h>
-#include "spiralOrder.h"
+#include "allHead.h"
 
 int* spiralOrder(int** matrix, int matrixSize, int* matrixColSize, int* returnSize) {
     // matrixSize 行数
