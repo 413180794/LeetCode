@@ -3,4 +3,4 @@ project(leetcode C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(leetcode main.c one_question_per_day/translateNum.c one_question_per_day/isPalindrome.c)
+add_executable(leetcode main.c one_question_per_day/translateNum.c one_question_per_day/isPalindrome.c one_question_per_day/dailyTemperatures.c one_question_per_day/climbStairs.c)

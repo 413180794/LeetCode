@@ -1,5 +1,5 @@
 
-#include <stdio.h>
+#include <stdlib.h>
 #include "allHead.h"
 
 int* spiralOrder(int** matrix, int matrixSize, int* matrixColSize, int* returnSize) {

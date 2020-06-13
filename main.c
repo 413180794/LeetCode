@@ -5,5 +5,5 @@
 #include "one_question_per_day/spiralOrder.c"
 
 int main(void) {
-    printf("%d", isPalindrome(122));
+    printf("%d", climbStairs(4));
 }
